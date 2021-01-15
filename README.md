@@ -4,7 +4,7 @@ Git (the commands) and Gitbash (the GUI that allows us to write our Git commands
 
 ## What does Gitbash (The GUI look like)?
 
-<img src="readMeImg/gitBash.png" height="350"/>
+<img src="readmeImg/gitBash.png" height="350"/>
 
 ## :books: External sources (after you installed Git):
 
@@ -41,7 +41,7 @@ Will teach you how to handle merge conflicts.
 ## Project structure
 
 At the end of the day, our git workflow should look something like:
-<img src="readMeImg/gitWorkflow.png" height="250"/>
+<img src="readmeImg/gitWorkflow.png" height="250"/>
 
 Each "dots" represents a `commit`. They are "save points" for our online code.
 
@@ -63,13 +63,13 @@ But what is the `remotes/BRANCH_NAME`? It's just an indicator what branches the 
 
 Allows us to copy the code that we shared online so that we can work on our project locally on our computer.
 
-<img src="readMeImg/gitClone.png" height="250"/>
+<img src="readmeImg/gitClone.png" height="250"/>
 
 We can get the link by clicking **Code** as shown above. In our case, we will be using:
 
 Go to a folder you want the save the code online on, open up `Gitbash` by right-clicking the folder you're at. `Gitbash` will open up. As shown below:
 
-<img src="readMeImg/gitBashTurtorial.gif" height="250"/>
+<img src="readmeImg/gitBashTurtorial.gif" height="250"/>
 
 Write the command below on `Gitbash`:
 
